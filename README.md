@@ -1,2 +1,2 @@
 # vrj_project
-This is my git Repository created to understand the basic functionalities and working of git !
+This is the second branch that I created in here as a branch.
